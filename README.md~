@@ -31,9 +31,4 @@ To modify the sample and class size
 To verify the calculation added a bias to the data
 The loss reduces as bias is increased (Range >= 1)
         ./loss_function 100 10 3
-
-# Development environment:
-1. Ubuntu/Linux OS
-2. Opencv for C++ --version=4.4
-
-
+        
